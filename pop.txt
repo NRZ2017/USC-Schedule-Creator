@@ -1,0 +1,900 @@
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 09:30am 10:45am
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 11:00am 12:20pm
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 10:00am 11:50am
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 10:00am 11:50am
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 10:00am 11:50am
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 10:00am 11:50am
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 W 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 02:00pm 03:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 T 04:00pm 05:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 12:30pm 01:50pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 11:00am 12:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 02:00pm 03:20pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 MW 10:00am 11:50am
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 M 03:00pm 03:50pm
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
+Lecture CS104 TTh 09:30am 10:50am
+Lab CS104 Th 05:00pm 06:50pm
+Quiz CS104 F 07:00pm 08:50pm
+Lecture EE109 TTh 02:00pm 03:20pm
+Lab EE109 W 03:30pm 04:50pm
+Quiz EE109 T 07:00pm 08:50pm
+Lecture EE364 TTh 12:00pm 01:50pm
+Discussion EE364 F 11:00am 11:50am
+Lecture WRIT150 MWF 12:00pm 12:50pm
+
